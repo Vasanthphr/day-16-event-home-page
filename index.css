@@ -1,0 +1,46 @@
+p{
+display: inline;
+border: 2px solid black;
+align-items: center;
+}
+.insidebox{
+    border: 1px solid black;
+    padding: 3px;
+}
+span{
+    margin-left: 30px;
+}
+button{
+    margin-left: 40px;
+    font-family: 'Indie Flower', cursive;
+}
+.img{
+    margin: 10px;
+    border: black 1px solid;
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+.circle{
+    margin: 7px;
+    border: black 1px solid;
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+}
+center{
+    padding: 8px;
+}
+h5{
+    margin-left: 80px;
+    font-family: 'Indie Flower', cursive;
+}
+.box{
+    margin: 25px;
+    padding: 70px;
+    border: 1px solid black;
+}
+b{
+    border: 1px solid black;
+    text-align: center;
+}
